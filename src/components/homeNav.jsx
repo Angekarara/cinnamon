@@ -6,7 +6,7 @@ import {AiOutlineClose} from 'react-icons/ai'
 import { useState } from "react";
 const HomeNav = () => {
     const [closed,setClosed]=useState(true)
-  return (
+  return ( 
     <>
       <div className=" ">
         <div className="lg:fixed w-screen top-[10px] lg:top-0">

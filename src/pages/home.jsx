@@ -30,11 +30,11 @@ const Home = () => {
           </div>
           <div>SEE OUR WORK</div>
         </div>
-        <div className="flex  -mt-[200px] md:-mt-[250px] ml-[200px] md:ml-[600px] lg:ml-[1140px] lg:-mt-[250px]">
-          <div className="h-[140px] w-[140px] bg-no-repeat  shadow-3xl  bg-contain bg-center bg-hero-circle bg-[black] rounded-[50%]"></div>
+        <div className="flex  -mt-[200px] md:-mt-[250px] ml-[200px] md:ml-[600px] lg:ml-[1350px] lg:-mt-[330px]">
+          <div className="h-[200px] w-[200px] bg-no-repeat  shadow-3xl  bg-contain bg-center bg-hero-circle bg-[black] rounded-[50%]"></div>
         </div>
       </div>
-      <div className=" mt-[160px]  flex flex-col gap-[40px]   md:mt-[200px]  ">
+      <div className=" mt-[160px]  flex flex-col gap-[40px]   md:mt-[370px]  ">
         <BackgroundCard
           bg="bg-[#ffcb47]"
           img="https://cinnamon.agency/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F6mf4aqitzrkt%2F2jr7RHJsFwOn3kEiUGEqAN%2F44d035a93444856bd117f168f348f59b%2FHero_Img__1_.png&w=1200&q=80"
@@ -92,6 +92,7 @@ const Home = () => {
           <Button label="  See Our Services"/>
         </div>
       </div>
+      
 
 
     </>);
